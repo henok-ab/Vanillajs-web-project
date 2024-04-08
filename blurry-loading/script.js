@@ -1,5 +1,5 @@
-const loadText = document.querySelector('.loading-text')
-const bg = document.querySelector('.bg')
+const loadText = document.querySelector('.loading-text')   // div selector
+const bg = document.querySelector('.bg')  // section selector
 
 let load = 0
 
