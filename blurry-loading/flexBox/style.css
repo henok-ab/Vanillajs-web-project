@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.item {
+    flex: 1;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: blueviolet;
+    margin: 10px;
+}
